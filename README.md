@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Security](https://github.com/jl-houss/Security)
 
-- 📫 How to reach me: **houssam.pro@gmail.com**
+- 📫 How to reach me: **thoussam.pro@gmail.com**
 
 - ⚡ Fun fact **I started coding at 12yo**
 
