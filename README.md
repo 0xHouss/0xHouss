@@ -73,4 +73,3 @@
 
 - Discord: 0xhouss
 - Email: thoussam.pro@gmail\.com
-- Twitter: 0xHouss
